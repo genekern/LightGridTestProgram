@@ -6,8 +6,8 @@
 
 Led_utils::Led_utils (  )
 :
-lights_1(8,35),
-lights_2(7,35),
+lights_1(LED_STRING_1,35),
+lights_2(LED_STRING_2,35),
 string_group()
 {
 }
